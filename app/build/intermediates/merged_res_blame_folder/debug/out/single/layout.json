@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_add_task.xml",
+        "source": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\src\\main\\res\\layout\\activity_add_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\empty_state.xml",
+        "source": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\src\\main\\res\\layout\\empty_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_task.xml",
+        "source": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\src\\main\\res\\layout\\item_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\savio\\Downloads\\027_CriandoUmAppDeLembretesETarefasComKotlin-main\\lembretes-em-kotlin\\ToDoList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
